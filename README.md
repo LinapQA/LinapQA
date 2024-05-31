@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Lina</h1>
 <h3 align="center">Environmental Engineer and passionate Qa Tester from Colombia</h3>
