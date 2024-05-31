@@ -1,3 +1,6 @@
+<div align="center">
+  <img width:"800" src="https://github.com/GVL0001/GVL0001/blob/main/banner_github.png"  />
+</div>
 
 <h1 align="center">Hi 👋, I'm Lina</h1>
 <h3 align="center">Environmental Engineer and passionate Qa Tester from Colombia</h3>
