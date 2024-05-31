@@ -1,8 +1,8 @@
 <div align="center">
-  <img width:"800" src="Banner.png"  />
+  <img width:"800" src="Personal Profile Banner.png"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Lina</h1>
+<h1 align="center">Hi everyone👋</h1>
 <h3 align="center">Environmental Engineer and passionate Qa Tester from Colombia</h3>
 
 - 🔭 I’m currently working on **Automated test development using Python and Selenium WebDriver to cover the entire process of ordering a taxi through the Urban Routes app**
