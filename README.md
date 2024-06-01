@@ -63,8 +63,7 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LinapQA&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<img src="https://streak-stats.demolab.com?user=LinapQA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinapQA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
