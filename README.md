@@ -63,8 +63,8 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linapqa&show_icons=true&locale=en&layout=compact" alt="linapqa" /></p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LinapQA&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linapqa&show_icons=true&locale=en" alt="linapqa" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinapQA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
