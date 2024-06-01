@@ -63,5 +63,8 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linapqa&show_icons=true&locale=en&layout=compact" alt="linapqa" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linapqa&show_icons=true&locale=en" alt="linapqa" /></p>
 
 ###
