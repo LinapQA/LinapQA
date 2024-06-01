@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="900" src="Personal Profile Banner qa.png"/>
+  <img width="900" src=""/>
 </div>
 
 ###
